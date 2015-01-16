@@ -1,1 +1,40 @@
- 
+Version 0.0.1
+
+SUMMARY:
+
+Binder is copyrighted in accordance with the DCMA act of 1998. All contributions to Binder are released to our specification, and the contributors rights pertaining to the works transfer to BiggerOnTheInside development.
+
+All contributions are credited to the appropriate author, if applicable.
+All contributors must sign and mail, or fax our release form for their works.
+Contributions are subject to removal/modifications at any team members descretion.
+Modification are allowed, just don't distribute the original works with them.
+No redistribution allowed, at ALL!
+No commercial use, none!
+
+TERMS:
+
+These terms shall govern any, and all, contributions to the Binder project. Until the time that the current owner of BiggerOnTheInside development chooses to remove/revoke this document as the acting license for the Binder project.
+In the event that this license is revoked as the license for the Binder project, all rights granted by this license shall be revoked, and all contributions to the Binder project thereafter belong to the current majority (legal) owner of BiggerOnTheInside development.
+Any contributor must sign the official release-of-rights form provided by an aproved BiggerOnTheInside representative, in order for his/her contributions to become part of, or be included in the project.
+All contributors rights partaining to the contribution, unless exclusivally granted, belong to (and are transfered to) BiggerOnTheInside development.
+At no time shall BiggerOnTheInside "return" the rights pertaining to the contributions to the original author.
+The redistribution of, in parts, whole, or sections, of the Binder project is NOT allowed by this license and violates it.
+The modification of the Binder project IS allowed, but redistributions of modiciation MUST NOT include any of the original project in it's ditribution.
+None of the Binder project may be used for ANY commercial purpose, pay-to-play, coin-op, arcade, or any other purpose. Violators WILL be prosectuted to the full extent of the Law!
+
+WARRENTY:
+
+THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
+
+
+USE OF TRADEMARKS/NAME:
+
+The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission. Title to copyright in this software and any associated documentation will at all times remain with copyright holders.
+
+HOW TO USE:
+
+All contributions to the Binder project must include the following line(s):
+
+Copyright 2015 BiggerOnTheInside (development), all rights reserved. 
+Released under the Binder License (https://github.com/BiggerOnTheInside/Licenses/Binder.txt)
