@@ -10,7 +10,6 @@ Contributions are subject to removal/modifications at any team members descretio
 Modification are allowed, just don't distribute the original works with them.
 No redistribution allowed, at ALL!
 No commercial use, none!
-Open source API's can refrense the content from the original code.
 
 TERMS:
 
@@ -22,7 +21,6 @@ At no time shall BiggerOnTheInside "return" the rights pertaining to the contrib
 The redistribution of, in parts, whole, or sections, of the Binder project is NOT allowed by this license and violates it.
 The modification of the Binder project IS allowed, but redistributions of modiciation MUST NOT include any of the original project in it's ditribution.
 None of the Binder project may be used for ANY commercial purpose, pay-to-play, coin-op, arcade, or any other purpose. Violators WILL be prosectuted to the full extent of the Law!
-In the form of an API, this software may be distributed, one copy per person.
 
 WARRENTY:
 
